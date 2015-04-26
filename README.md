@@ -1,2 +1,2 @@
 # Lecture-MATLAB-Simulink
-Aufgaben zu den einzelnen Kapiteln
+Bearbeitete Aufgaben zu den einzelnen Kapiteln
